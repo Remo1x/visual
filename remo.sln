@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remo", "remo\remo.csproj", "{4D573874-217D-4B42-B2FD-498BE8A9C104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D573874-217D-4B42-B2FD-498BE8A9C104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D573874-217D-4B42-B2FD-498BE8A9C104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D573874-217D-4B42-B2FD-498BE8A9C104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D573874-217D-4B42-B2FD-498BE8A9C104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ABECD5F-4F70-4A26-90CB-B4C40C391EA5}
+	EndGlobalSection
+EndGlobal
